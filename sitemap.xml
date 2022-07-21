@@ -6,6 +6,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://secops.cc/active_directory/introduction/</loc>
+         <lastmod>2022-07-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://secops.cc/attacking_common_apps/closing_out/</loc>
          <lastmod>2022-07-21</lastmod>
          <changefreq>daily</changefreq>
@@ -82,6 +87,11 @@
     </url>
     <url>
          <loc>https://secops.cc/cheat_sheets/cheatsheet-77/</loc>
+         <lastmod>2022-07-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://secops.cc/cheat_sheets/cheatsheet_aid/</loc>
          <lastmod>2022-07-21</lastmod>
          <changefreq>daily</changefreq>
     </url>

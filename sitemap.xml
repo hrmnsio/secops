@@ -11,7 +11,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://secops.cc/active_directory/ad_gpo/</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://secops.cc/active_directory/ad_protocols/</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://secops.cc/active_directory/ad_security/</loc>
          <lastmod>2022-07-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
